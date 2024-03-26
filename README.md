@@ -1,16 +1,22 @@
-### Hi there 👋
+![image](https://github.com/vinniejipsk/vinniejipsk/assets/141219700/44084f91-5043-4c46-9a99-1494aa5d5894)
 
-<!--
-**vinniejipsk/vinniejipsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Bridging media composition and 3D with IT engineering, I excel in creative problem-solving and technical innovation. My expertise in visual effects and coding positions me to contribute unique solutions. I aim to bring a dynamic skill set and fresh perspectives to my next role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Checkout my portfolio: 
+https://shengkit.notion.site/2024-SE-Portfolio-fd01a1a004d44ac78f285895c8d79fca
+
+LinkedIn:
+https://www.linkedin.com/in/vinniejip/
+
+Email:
+vinniejip789@gmail.com
+
+## Languages and Tools
+
+HTML  CSS  Javascript
+
+MongoDB  Express  React  Node.js
+
+Adobe Softwares
