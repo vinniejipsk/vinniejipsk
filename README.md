@@ -24,3 +24,5 @@ HTML  CSS  Javascript
 MongoDB  Express  React  Node.js
 
 Adobe Softwares
+
+Nuke, HoudiniFX Softwares
