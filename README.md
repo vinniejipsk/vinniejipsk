@@ -23,6 +23,8 @@ HTML  CSS  Javascript
 
 MongoDB  Express  React  Node.js
 
-Adobe Softwares
+Tailwind CSS Shadcn UI Chakra UI
 
-Nuke, HoudiniFX Softwares
+Figma Adobe Softwares (Photoshop, Premiere, AE, etc)
+
+Nuke Houdini Maya
